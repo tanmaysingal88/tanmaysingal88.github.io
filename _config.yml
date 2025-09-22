@@ -1,0 +1,10 @@
+theme: minima
+title: My Website
+description: Welcome to my personal GitHub Page!
+
+# Navigation links
+nav:
+  - title: Home
+    url: /
+  - title: Publications
+    url: /publications
