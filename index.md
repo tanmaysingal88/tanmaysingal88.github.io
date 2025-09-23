@@ -5,7 +5,7 @@ layout: default
 <!-- Top-right menu -->
 <div style="text-align: right; margin-bottom: 20px;">
   <a href="/index.md" style="margin-right: 20px;">Home</a>
-  <a href="/publications.html" style="margin-right: 20px;">Publications</a>
+  <a href="/publications.md" style="margin-right: 20px;">Publications</a>
   <a href="/CV_TS_Sept_2025.pdf">CV</a>
 </div>
 
