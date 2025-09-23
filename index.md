@@ -1,10 +1,13 @@
+<div style="display: flex; align-items: center;">
 
-<p align="center">
-  <img src="20250814_133920.jpg" alt="My photo" width="250"/>
-</p>
-
+  <!-- Left: Photo -->
+  <div style="flex: 1;">
+    <img src="20250814_133920.jpg" alt="My photo" width="200" style="border-radius: 8px;"/>
+  </div>
 ---
-
+<!-- Right: Text -->
+  <div style="flex: 2; padding-left: 20px;">
+    <p>
 
 Link to CV: [**Download CV (PDF)**](CV_TS_Sept_2025.pdf)
 
@@ -26,3 +29,7 @@ Apart from research, I enjoy hiking, running, swimming, and practice callistheni
 ## 🔹 Contact: feel free to get in touch!
 - ✉️ Email: tanmaysingal(at)gmail(dot)com
 
+</p>
+  </div>
+
+</div>
