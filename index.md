@@ -3,7 +3,6 @@
 
 ---
 
-## 📄 CV
 
 Link to CV: [**Download CV (PDF)**](CV_TS_Sept_2025.pdf)
 
