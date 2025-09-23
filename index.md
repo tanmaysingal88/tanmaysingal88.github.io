@@ -1,6 +1,5 @@
 
-
-p align="center">
+<p align="center">
   <img src="20250814_133920.jpg" alt="My photo" width="250"/>
 </p>
 
