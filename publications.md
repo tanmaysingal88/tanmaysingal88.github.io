@@ -1,3 +1,10 @@
+---
+layout: default
+title: Publications
+permalink: /publications/
+---
+
+
 # Publications
 
 1. **[Wigner’s theorem for stabilizer states and quantum designs](https://doi.org/10.22331/q-2023-07-06-1048)**  
