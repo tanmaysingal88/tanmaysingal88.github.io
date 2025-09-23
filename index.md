@@ -4,22 +4,20 @@
 ---
 
 ## 🔹 About Me
-- I'm a quantum computing researcher based in University of Cologne with David Gross (https://qi.uni-koeln.de/).  My work is more on the theoretical side, and I work, in particular, on the mathematical aspects of quantum computing. Before being in Cologne, I worked as a postdoc with Dariusz Chruscinski in UMK, Torun (https://damsi.umk.pl/en/centre/quantum-entanglement-and-the-dynamics-of-open-quantum-systems/), Michal Oszmaniec in CFT Warsaw (https://quantin.pl/team/) and Huangjun Zhu (https://phys.fudan.edu.cn/13/75/c7605a136053/page.htm) in Fudan Univeristy, Shanghai. I completed my PhD. from the Institute of Mathematical Sciences, Chennai, India in 2016 under the guidance of Sibasish Ghosh. 
-- 🎓 Postdoctoral researcher at the University of Cologne  
-- 🔬 Research areas: Quantum computing.
-- 🇮🇳 Indian citizen, learning German 🇩🇪  
+-Hi! I'm Tanmay Singal! I'm a quantum computing researcher based in University of Cologne with David Gross (https://qi.uni-koeln.de/).  My work is more on the theoretical side, and I work, in particular, on the mathematical aspects of quantum computing. Before being in Cologne, I worked as a postdoc with Dariusz Chruscinski in UMK, Torun (https://damsi.umk.pl/en/centre/quantum-entanglement-and-the-dynamics-of-open-quantum-systems/), Michal Oszmaniec in CFT Warsaw (https://quantin.pl/team/) and Huangjun Zhu (https://phys.fudan.edu.cn/13/75/c7605a136053/page.htm) in Fudan Univeristy, Shanghai. I completed my PhD. from the Institute of Mathematical Sciences, Chennai (https://www.imsc.res.in/), India in 2016 under the guidance of Sibasish Ghosh. 
+
 
 ---
 
-## 🔹 Research and interests
+## 🔹 Research areas and interests
 - Mathematical aspects of quantum computing
--
-- [Other Projects](https://github.com/yourusername?tab=repositories)
+- Quantum algorithms and certication
+- Quantum state discrimination
+- Informally: I'm interested in all things math! :-)
 
 ---
 
 ## 🔹 Contact
-- 📂 [GitHub](https://github.com/yourusername)
 - ✉️ Email: tanmaysingal(at)gmail(dot)com
 
 ## 📄 CV
